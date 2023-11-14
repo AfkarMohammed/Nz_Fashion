@@ -1,7 +1,6 @@
 <?php
   require("validate_user.php");
  ?>
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
